@@ -1,3 +1,3 @@
-# Codes of 5 Projects
-# Bootcamp7
-# R, Python
+Codes of 5 Projects
+Bootcamp7
+R, Python
